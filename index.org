@@ -44,8 +44,6 @@ Zgromadzenie obwodowe z NO SCHEDULED:<2021-04-25>
   To jest połowa cyklu wizyt. Zbór 9-ty
 ** NDM                                                                  :maj:
    SCHEDULED: <2021-05-11 Tue>
-- Note taken on [2021-02-16 Tue 13:24] \\
-  Zerknąć na notatkę dotyczącą [[Nasielsk]]
 ** Wolny tydzień                                             :EASY:wolne:maj:
    SCHEDULED: <2021-05-18 Tue>
 ** Jelonki                                             :maj:TEACHING:FLAGGED:
@@ -58,8 +56,6 @@ Zgromadzenie obwodowe z NO SCHEDULED:<2021-04-25>
   Drugi tydzień współpracy z Mariuszem Klimkiem 
 ** Nasielsk                                                        :czerwiec:
    SCHEDULED: <2021-06-08 Tue>
-- Note taken on [2021-02-16 Tue 13:24] \\
-  Problem, który zasygnalizował Ryszard Kowalski z NDM [2021-02-16 Tue]. Dotyczy Wojtka Banasika, który odzyskał pieniądze w pewnej sprawie sądowej dla siostry z NDM. Niestety nie zwrócił jej do tej pory (sprawa dotyczy sytuacji sprzed pandemii) 19 tysięcy. Podobno obiecał spłacać w ratach.
 ** Współpraca pionierska                           :EASY:współpraca:czerwiec:
    SCHEDULED: <2021-06-15 Tue>
 ** Żoliborz                                                        :czerwiec:
