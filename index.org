@@ -5,29 +5,35 @@
 
 * Program marzec-sierpień
 #+BEGIN: columnview :hlines 1 :id local
-| Zbór                    | Początek wizyty  |
-|-------------------------+------------------|
-| Współpraca pionierska   | [2021-04-20 Tue] |
-| Małocice                | [2021-04-27 Tue] |
-| Płońsk-Północ           | [2021-05-04 Tue] |
-| NDM                     | [2021-05-11 Tue] |
-| Wolny tydzień           | [2021-05-18 Tue] |
-| Jelonki                 | [2021-05-25 Tue] |
-| Chomiczówka             | [2021-06-01 Tue] |
-| Nasielsk                | [2021-06-08 Tue] |
-| Współpraca pionierska   | [2021-06-15 Tue] |
-| Żoliborz                | [2021-06-22 Tue] |
-| Ciechanów-Aleksandrówka | [2021-06-29 Tue] |
-| Koło                    | [2021-07-06 Tue] |
-| Współpraca pionierska   | [2021-07-13 Tue] |
-| Bemowo                  | [2021-07-20 Tue] |
-| Piaski                  | [2021-07-27 Tue] |
-| niezaplanowane          | [2021-06-01 Tue] |
-| niezpalanowane          | [2021-08-10 Tue] |
-| KSP 1                   | [2021-08-16 Mon] |
-| KSP 2                   | [2021-08-23 Mon] |
-| Urlop                   |                  |
+| Zbór                    | Data             | Miesiąc                         |
+|-------------------------+------------------+---------------------------------|
+| Program marzec-sierpień |                  |                                 |
+| Współpraca pionierska   | [2021-04-20 Tue] | :SPOTKANIE:współpraca:kwiecień: |
+| Małocice                | [2021-04-27 Tue] | :kwiecień:                      |
+| Płońsk-Północ           | [2021-05-04 Tue] | :UWAGA:maj:                     |
+| NDM                     | [2021-05-11 Tue] | :maj:                           |
+| Wolny tydzień           | [2021-05-18 Tue] | :EASY:wolne:maj:                |
+| Jelonki                 | [2021-05-25 Tue] | :maj:TEACHING:FLAGGED:          |
+| Chomiczówka             | [2021-06-01 Tue] | :czerwiec:TEACHING:FLAGGED:     |
+| Nasielsk                | [2021-06-08 Tue] | :czerwiec:                      |
+| Współpraca pionierska   | [2021-06-15 Tue] | :EASY:współpraca:czerwiec:      |
+| Żoliborz                | [2021-06-22 Tue] | :czerwiec:                      |
+| Ciechanów-Aleksandrówka | [2021-06-29 Tue] | :czerwiec:                      |
+| Koło                    | [2021-07-06 Tue] | :lipiec:                        |
+| Współpraca pionierska   | [2021-07-13 Tue] | :EASY:współpraca:lipiec:        |
+| Bemowo                  | [2021-07-20 Tue] | :lipiec:                        |
+| Piaski                  | [2021-07-27 Tue] | :lipiec:                        |
+| niezaplanowane          | [2021-06-01 Tue] | :sierpień:                      |
+| niezpalanowane          | [2021-08-10 Tue] | :sierpień:                      |
+| KSP 1                   | [2021-08-16 Mon] | :TEACHING:sierpień:             |
+| KSP 2                   | [2021-08-23 Mon] | :TEACHING:sierpień:             |
+| Urlop                   |                  | :współpraca:EASY:sierpień:      |
 #+END:
+
+#+BEGIN_COMMENT
+Generowanie tabeli C-c C-x x columnview
+Kursor musi znajdować się na nagłówku
+#+END_COMMENT
 
 #+COLUMNS: %ITEM(Zbór) %SCHEDULED(Data) %TAGS(Miesiąc)
 ** Współpraca pionierska                      :SPOTKANIE:współpraca:kwiecień:
