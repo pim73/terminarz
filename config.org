@@ -1,0 +1,10 @@
+#+startup: indent
+#+Language: pl
+#+LATEX_HEADER: \usepackage[AUTO]{babel}
+#+LATEX_HEADER: \DeclareUnicodeCharacter{2028}{\linebreak}
+#+latex_header: \usepackage[left=2cm, top=2cm, bottom=2cm, right=2cm]{geometry}
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/CSS/org.css">
+#+options: toc:nil
+#+options: num:nil
+#+author:
+
