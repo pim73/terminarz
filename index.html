@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">
+<head>
+<!-- 2021-04-15 Thu 16:42 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Terminarz</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="org.css">
+<script type="text/javascript">
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+<!--/*--><![CDATA[/*><!--*/
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Terminarz</h1>
+<div id="table-of-contents">
+<h2>Spis tre&#x015b;ci</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org99ac8dc">Program marzec-sierpień</a>
+<ul>
+<li><a href="#orgb9232a1">Współpraca pionierska&#xa0;&#xa0;&#xa0;<span class="tag"><span class="SPOTKANIE">SPOTKANIE</span>&#xa0;<span class="wsp__praca">współpraca</span>&#xa0;<span class="kwiecie_">kwiecień</span></span></a></li>
+<li><a href="#orgd8f0c7e">Małocice&#xa0;&#xa0;&#xa0;<span class="tag"><span class="kwiecie_">kwiecień</span></span></a></li>
+<li><a href="#orgdc465c2">Płońsk-Północ&#xa0;&#xa0;&#xa0;<span class="tag"><span class="UWAGA">UWAGA</span>&#xa0;<span class="maj">maj</span></span></a></li>
+<li><a href="#orgc411776">NDM&#xa0;&#xa0;&#xa0;<span class="tag"><span class="maj">maj</span></span></a></li>
+<li><a href="#org19e0088">Wolny tydzień&#xa0;&#xa0;&#xa0;<span class="tag"><span class="EASY">EASY</span>&#xa0;<span class="wolne">wolne</span>&#xa0;<span class="maj">maj</span></span></a></li>
+<li><a href="#orga2ef617">Jelonki&#xa0;&#xa0;&#xa0;<span class="tag"><span class="maj">maj</span>&#xa0;<span class="TEACHING">TEACHING</span>&#xa0;<span class="FLAGGED">FLAGGED</span></span></a></li>
+<li><a href="#org1d138e1">Chomiczówka&#xa0;&#xa0;&#xa0;<span class="tag"><span class="czerwiec">czerwiec</span>&#xa0;<span class="TEACHING">TEACHING</span>&#xa0;<span class="FLAGGED">FLAGGED</span></span></a></li>
+<li><a href="#org8b8e44b">Nasielsk&#xa0;&#xa0;&#xa0;<span class="tag"><span class="czerwiec">czerwiec</span></span></a></li>
+<li><a href="#org8e6143c">Współpraca pionierska&#xa0;&#xa0;&#xa0;<span class="tag"><span class="EASY">EASY</span>&#xa0;<span class="wsp__praca">współpraca</span>&#xa0;<span class="czerwiec">czerwiec</span></span></a></li>
+<li><a href="#org644ec9a">Żoliborz&#xa0;&#xa0;&#xa0;<span class="tag"><span class="czerwiec">czerwiec</span></span></a></li>
+<li><a href="#orgc3f77a2">Ciechanów-Aleksandrówka&#xa0;&#xa0;&#xa0;<span class="tag"><span class="czerwiec">czerwiec</span></span></a></li>
+<li><a href="#org36ad058">Koło&#xa0;&#xa0;&#xa0;<span class="tag"><span class="lipiec">lipiec</span></span></a></li>
+<li><a href="#org25abeab">Współpraca pionierska&#xa0;&#xa0;&#xa0;<span class="tag"><span class="EASY">EASY</span>&#xa0;<span class="wsp__praca">współpraca</span>&#xa0;<span class="lipiec">lipiec</span></span></a></li>
+<li><a href="#orgb3d9c7c">Bemowo&#xa0;&#xa0;&#xa0;<span class="tag"><span class="lipiec">lipiec</span></span></a></li>
+<li><a href="#org0827d52">Piaski&#xa0;&#xa0;&#xa0;<span class="tag"><span class="lipiec">lipiec</span></span></a></li>
+<li><a href="#org6516f26">niezaplanowane&#xa0;&#xa0;&#xa0;<span class="tag"><span class="sierpie_">sierpień</span></span></a></li>
+<li><a href="#org8972343">niezpalanowane&#xa0;&#xa0;&#xa0;<span class="tag"><span class="sierpie_">sierpień</span></span></a></li>
+<li><a href="#orgc3de5cd">KSP 1&#xa0;&#xa0;&#xa0;<span class="tag"><span class="TEACHING">TEACHING</span>&#xa0;<span class="sierpie_">sierpień</span></span></a></li>
+<li><a href="#orgc2b89b3">KSP 2&#xa0;&#xa0;&#xa0;<span class="tag"><span class="TEACHING">TEACHING</span>&#xa0;<span class="sierpie_">sierpień</span></span></a></li>
+<li><a href="#org6a2e53a">Urlop&#xa0;&#xa0;&#xa0;<span class="tag"><span class="wsp__praca">współpraca</span>&#xa0;<span class="EASY">EASY</span>&#xa0;<span class="sierpie_">sierpień</span></span></a></li>
+</ul>
+</li>
+<li><a href="#org9d3ae7c">Program wrzesień-luty</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org99ac8dc" class="outline-2">
+<h2 id="org99ac8dc">Program marzec-sierpień</h2>
+<div class="outline-text-2" id="text-org99ac8dc">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Zbór</th>
+<th scope="col" class="org-left">Początek wizyty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Współpraca pionierska</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-04-20 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Małocice</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-04-27 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Płońsk-Północ</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-05-04 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">NDM</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-05-11 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Wolny tydzień</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-05-18 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Jelonki</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-05-25 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Chomiczówka</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-06-01 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Nasielsk</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-06-08 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Współpraca pionierska</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-06-15 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Żoliborz</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-06-22 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Ciechanów-Aleksandrówka</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-06-29 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Koło</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-07-06 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Współpraca pionierska</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-07-13 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Bemowo</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-07-20 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Piaski</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-07-27 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">niezaplanowane</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-06-01 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">niezpalanowane</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-08-10 Tue]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">KSP 1</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-08-16 Mon]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">KSP 2</td>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2021-08-23 Mon]</span></span></td>
+</tr>
+
+<tr>
+<td class="org-left">Urlop</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="outline-container-orgb9232a1" class="outline-3">
+<h3 id="orgb9232a1">Współpraca pionierska&#xa0;&#xa0;&#xa0;<span class="tag"><span class="SPOTKANIE">SPOTKANIE</span>&#xa0;<span class="wsp__praca">współpraca</span>&#xa0;<span class="kwiecie_">kwiecień</span></span></h3>
+<div class="outline-text-3" id="text-orgb9232a1">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-04-20 Tue&gt;</span></span></p>
+<p>
+Spotkanie z pionierami w obwodzie SCHEDULED:<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-24 Sat&gt;</span></span>
+Zgromadzenie obwodowe z NO SCHEDULED:<span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-25 Sun&gt;</span></span>
+</p>
+</div>
+</div>
+<div id="outline-container-orgd8f0c7e" class="outline-3">
+<h3 id="orgd8f0c7e">Małocice&#xa0;&#xa0;&#xa0;<span class="tag"><span class="kwiecie_">kwiecień</span></span></h3>
+<div class="outline-text-3" id="text-orgd8f0c7e">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-04-27 Tue&gt;</span></span></p>
+</div>
+</div>
+<div id="outline-container-orgdc465c2" class="outline-3">
+<h3 id="orgdc465c2">Płońsk-Północ&#xa0;&#xa0;&#xa0;<span class="tag"><span class="UWAGA">UWAGA</span>&#xa0;<span class="maj">maj</span></span></h3>
+<div class="outline-text-3" id="text-orgdc465c2">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-05-04 Tue&gt;</span></span></p>
+<ul class="org-ul">
+<li>Note taken on <span class="timestamp-wrapper"><span class="timestamp">[2021-02-17 Wed 10:10] </span></span> <br />
+Wizyta pasterska ze Sławkiem Ziarniakiem</li>
+<li>Note taken on <span class="timestamp-wrapper"><span class="timestamp">[2021-02-17 Wed 10:09] </span></span> <br />
+To jest połowa cyklu wizyt. Zbór 9-ty</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc411776" class="outline-3">
+<h3 id="orgc411776">NDM&#xa0;&#xa0;&#xa0;<span class="tag"><span class="maj">maj</span></span></h3>
+<div class="outline-text-3" id="text-orgc411776">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-05-11 Tue&gt;</span></span></p>
+<ul class="org-ul">
+<li>Note taken on <span class="timestamp-wrapper"><span class="timestamp">[2021-02-16 Tue 13:24] </span></span> <br />
+Zerknąć na notatkę dotyczącą <a href="#org8b8e44b">Nasielsk</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org19e0088" class="outline-3">
+<h3 id="org19e0088">Wolny tydzień&#xa0;&#xa0;&#xa0;<span class="tag"><span class="EASY">EASY</span>&#xa0;<span class="wolne">wolne</span>&#xa0;<span class="maj">maj</span></span></h3>
+<div class="outline-text-3" id="text-org19e0088">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-05-18 Tue&gt;</span></span></p>
+</div>
+</div>
+<div id="outline-container-orga2ef617" class="outline-3">
+<h3 id="orga2ef617">Jelonki&#xa0;&#xa0;&#xa0;<span class="tag"><span class="maj">maj</span>&#xa0;<span class="TEACHING">TEACHING</span>&#xa0;<span class="FLAGGED">FLAGGED</span></span></h3>
+<div class="outline-text-3" id="text-orga2ef617">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-05-25 Tue&gt;</span></span></p>
+<ul class="org-ul">
+<li>Note taken on <span class="timestamp-wrapper"><span class="timestamp">[2021-02-20 Sat 06:27] </span></span> <br />
+Pierwszy tydzień współpracy z Mariuszem Klimkiem</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org1d138e1" class="outline-3">
+<h3 id="org1d138e1">Chomiczówka&#xa0;&#xa0;&#xa0;<span class="tag"><span class="czerwiec">czerwiec</span>&#xa0;<span class="TEACHING">TEACHING</span>&#xa0;<span class="FLAGGED">FLAGGED</span></span></h3>
+<div class="outline-text-3" id="text-org1d138e1">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-06-01 Tue&gt;</span></span></p>
+<ul class="org-ul">
+<li>Note taken on <span class="timestamp-wrapper"><span class="timestamp">[2021-02-20 Sat 06:28] </span></span> <br />
+Drugi tydzień współpracy z Mariuszem Klimkiem</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org8b8e44b" class="outline-3">
+<h3 id="org8b8e44b">Nasielsk&#xa0;&#xa0;&#xa0;<span class="tag"><span class="czerwiec">czerwiec</span></span></h3>
+<div class="outline-text-3" id="text-org8b8e44b">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-06-08 Tue&gt;</span></span></p>
+<ul class="org-ul">
+<li>Note taken on <span class="timestamp-wrapper"><span class="timestamp">[2021-02-16 Tue 13:24] </span></span> <br />
+Problem, który zasygnalizował Ryszard Kowalski z NDM <span class="timestamp-wrapper"><span class="timestamp">[2021-02-16 Tue]</span></span>. Dotyczy Wojtka Banasika, który odzyskał pieniądze w pewnej sprawie sądowej dla siostry z NDM. Niestety nie zwrócił jej do tej pory (sprawa dotyczy sytuacji sprzed pandemii) 19 tysięcy. Podobno obiecał spłacać w ratach.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org8e6143c" class="outline-3">
+<h3 id="org8e6143c">Współpraca pionierska&#xa0;&#xa0;&#xa0;<span class="tag"><span class="EASY">EASY</span>&#xa0;<span class="wsp__praca">współpraca</span>&#xa0;<span class="czerwiec">czerwiec</span></span></h3>
+<div class="outline-text-3" id="text-org8e6143c">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-06-15 Tue&gt;</span></span></p>
+</div>
+</div>
+<div id="outline-container-org644ec9a" class="outline-3">
+<h3 id="org644ec9a">Żoliborz&#xa0;&#xa0;&#xa0;<span class="tag"><span class="czerwiec">czerwiec</span></span></h3>
+<div class="outline-text-3" id="text-org644ec9a">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-06-22 Tue&gt;</span></span></p>
+</div>
+</div>
+<div id="outline-container-orgc3f77a2" class="outline-3">
+<h3 id="orgc3f77a2">Ciechanów-Aleksandrówka&#xa0;&#xa0;&#xa0;<span class="tag"><span class="czerwiec">czerwiec</span></span></h3>
+<div class="outline-text-3" id="text-orgc3f77a2">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-06-29 Tue&gt;</span></span></p>
+</div>
+</div>
+<div id="outline-container-org36ad058" class="outline-3">
+<h3 id="org36ad058">Koło&#xa0;&#xa0;&#xa0;<span class="tag"><span class="lipiec">lipiec</span></span></h3>
+<div class="outline-text-3" id="text-org36ad058">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-07-06 Tue&gt;</span></span></p>
+<ul class="org-ul">
+<li>Note taken on <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 08:19] </span></span> <br />
+Dotąd wysłałem zawiadomienia i szczegóły wizyty</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org25abeab" class="outline-3">
+<h3 id="org25abeab">Współpraca pionierska&#xa0;&#xa0;&#xa0;<span class="tag"><span class="EASY">EASY</span>&#xa0;<span class="wsp__praca">współpraca</span>&#xa0;<span class="lipiec">lipiec</span></span></h3>
+<div class="outline-text-3" id="text-org25abeab">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-07-13 Tue&gt;</span></span></p>
+</div>
+</div>
+<div id="outline-container-orgb3d9c7c" class="outline-3">
+<h3 id="orgb3d9c7c">Bemowo&#xa0;&#xa0;&#xa0;<span class="tag"><span class="lipiec">lipiec</span></span></h3>
+<div class="outline-text-3" id="text-orgb3d9c7c">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-07-20 Tue&gt;</span></span></p>
+</div>
+</div>
+<div id="outline-container-org0827d52" class="outline-3">
+<h3 id="org0827d52">Piaski&#xa0;&#xa0;&#xa0;<span class="tag"><span class="lipiec">lipiec</span></span></h3>
+<div class="outline-text-3" id="text-org0827d52">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-07-27 Tue&gt;</span></span></p>
+</div>
+</div>
+<div id="outline-container-org6516f26" class="outline-3">
+<h3 id="org6516f26">niezaplanowane&#xa0;&#xa0;&#xa0;<span class="tag"><span class="sierpie_">sierpień</span></span></h3>
+<div class="outline-text-3" id="text-org6516f26">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-06-01 Tue&gt;</span></span></p>
+</div>
+</div>
+<div id="outline-container-org8972343" class="outline-3">
+<h3 id="org8972343">niezpalanowane&#xa0;&#xa0;&#xa0;<span class="tag"><span class="sierpie_">sierpień</span></span></h3>
+<div class="outline-text-3" id="text-org8972343">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-08-10 Tue&gt;</span></span></p>
+</div>
+</div>
+<div id="outline-container-orgc3de5cd" class="outline-3">
+<h3 id="orgc3de5cd">KSP 1&#xa0;&#xa0;&#xa0;<span class="tag"><span class="TEACHING">TEACHING</span>&#xa0;<span class="sierpie_">sierpień</span></span></h3>
+<div class="outline-text-3" id="text-orgc3de5cd">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-08-16 Mon&gt;</span></span></p>
+</div>
+</div>
+<div id="outline-container-orgc2b89b3" class="outline-3">
+<h3 id="orgc2b89b3">KSP 2&#xa0;&#xa0;&#xa0;<span class="tag"><span class="TEACHING">TEACHING</span>&#xa0;<span class="sierpie_">sierpień</span></span></h3>
+<div class="outline-text-3" id="text-orgc2b89b3">
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">SCHEDULED:</span> <span class="timestamp">&lt;2021-08-23 Mon&gt;</span></span></p>
+</div>
+</div>
+<div id="outline-container-org6a2e53a" class="outline-3">
+<h3 id="org6a2e53a">Urlop&#xa0;&#xa0;&#xa0;<span class="tag"><span class="wsp__praca">współpraca</span>&#xa0;<span class="EASY">EASY</span>&#xa0;<span class="sierpie_">sierpień</span></span></h3>
+<div class="outline-text-3" id="text-org6a2e53a">
+<p>
+S| title | topic |
+</p>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+</table>
+<p>
+CHEDULED: <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-08-31 Tue&gt;</span></span>
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org9d3ae7c" class="outline-2">
+<h2 id="org9d3ae7c">Program wrzesień-luty</h2>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2021-04-15 Thu 16:42</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
