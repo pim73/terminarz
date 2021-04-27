@@ -2,7 +2,6 @@
 
 | Zbór                    | Początek wizyty  |
 |-------------------------+------------------|
-| Małocice                | [2021-04-27 Tue] |
 | Płońsk-Północ           | [2021-05-04 Tue] |
 | NDM                     | [2021-05-11 Tue] |
 | Wolny tydzień           | [2021-05-18 Tue] |

@@ -11,12 +11,6 @@ Kursor musi znajdować się na nagłówku
 #+END_COMMENT
 
 #+COLUMNS: %ITEM(Zbór) %SCHEDULED(Data) %TAGS(Miesiąc)
-** Współpraca pionierska                      :SPOTKANIE:współpraca:kwiecień:
-   SCHEDULED: <2021-04-20 Tue>
-Spotkanie z pionierami w obwodzie SCHEDULED:<2021-04-24>
-Zgromadzenie obwodowe z NO SCHEDULED:<2021-04-25>
-** Małocice                                                        :kwiecień:
-   SCHEDULED: <2021-04-27 Tue>
 ** Płońsk-Północ                                                  :UWAGA:maj:
    SCHEDULED: <2021-05-04 Tue>
 - Note taken on [2021-02-17 Wed 10:10] \\
@@ -64,3 +58,4 @@ SCHEDULED: <2021-08-23 Mon>
 ** Urlop                                          :współpraca:EASY:sierpień:
 SCHEDULED: <2021-08-31 Tue>
 * Program wrzesień-luty
+
