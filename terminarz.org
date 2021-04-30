@@ -10,7 +10,7 @@ Generowanie tabeli C-c C-x x columnview
 Kursor musi znajdować się na nagłówku
 #+END_COMMENT
 
-#+COLUMNS: %ITEM(Zbór) %SCHEDULED(Data) %TAGS(Miesiąc)
+#+COLUMNS: %ITEM(Zbór) %SCHEDULED(Data)
 ** Płońsk-Północ                                                  :UWAGA:maj:
    SCHEDULED: <2021-05-04 Tue>
 - Note taken on [2021-02-17 Wed 10:10] \\
@@ -38,15 +38,14 @@ Kursor musi znajdować się na nagłówku
 ** Ciechanów-Aleksandrówka                                         :czerwiec:
    SCHEDULED: <2021-06-29 Tue>
 ** Koło                                                              :lipiec:
-   SCHEDULED: <2021-07-06 Tue>
-   - Note taken on [2021-02-27 Sat 08:19] \\
-     Dotąd wysłałem zawiadomienia i szczegóły wizyty
-** Współpraca pionierska                             :EASY:współpraca:lipiec:
+** Współpraca pionierska :EASY:współpraca:lipiec:
    SCHEDULED: <2021-07-13 Tue>
 ** Bemowo                                                            :lipiec:
    SCHEDULED: <2021-07-20 Tue>
 ** Piaski                                                            :lipiec:
    SCHEDULED: <2021-07-27 Tue>
+   - Note taken on [2021-04-28 Wed 20:25] \\
+     Dotąd wysłałem zawiadomienia i szczegóły wizyty
 ** niezaplanowane                                                 :sierpień:
 SCHEDULED: <2021-06-01 Tue>
 ** niezpalanowane                                                 :sierpień:
