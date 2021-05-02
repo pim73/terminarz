@@ -11,12 +11,6 @@ Kursor musi znajdować się na nagłówku
 #+END_COMMENT
 
 #+COLUMNS: %ITEM(Zbór) %SCHEDULED(Data)
-** Płońsk-Północ                                                  :UWAGA:maj:
-   SCHEDULED: <2021-05-04 Tue>
-- Note taken on [2021-02-17 Wed 10:10] \\
-  Wizyta pasterska ze Sławkiem Ziarniakiem
-- Note taken on [2021-02-17 Wed 10:09] \\
-  To jest połowa cyklu wizyt. Zbór 9-ty
 ** NDM                                                                  :maj:
    SCHEDULED: <2021-05-11 Tue>
 ** Wolny tydzień                                             :EASY:wolne:maj:
@@ -47,7 +41,7 @@ Kursor musi znajdować się na nagłówku
    - Note taken on [2021-04-28 Wed 20:25] \\
      Dotąd wysłałem zawiadomienia i szczegóły wizyty
 ** niezaplanowane                                                 :sierpień:
-SCHEDULED: <2021-06-01 Tue>
+SCHEDULED: <2021-08-03 Tue>
 ** niezpalanowane                                                 :sierpień:
 SCHEDULED: <2021-08-10 Tue>
 ** KSP 1                                                 :TEACHING:sierpień:
