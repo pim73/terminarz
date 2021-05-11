@@ -11,8 +11,6 @@ Kursor musi znajdować się na nagłówku
 #+END_COMMENT
 
 #+COLUMNS: %ITEM(Zbór) %SCHEDULED(Data)
-** NDM                                                                  :maj:
-   SCHEDULED: <2021-05-11 Tue>
 ** Wolny tydzień                                             :EASY:wolne:maj:
    SCHEDULED: <2021-05-18 Tue>
 ** Jelonki                                             :maj:TEACHING:FLAGGED:
@@ -51,4 +49,21 @@ SCHEDULED: <2021-08-31 Tue>
 - Note taken on [2021-05-10 Mon 10:32] \\
   Dotąd wysłałem zawiadomienia i szczegóły wizyty
 * Program wrzesień-luty
-
+** Płońsk-Stare Miasto
+** Warszawa-Młociny
+** Mława
+** Warszawa-Bielany
+** Izabelin
+** Ciechanów-Podzamcze
+** Łomianki
+** Małocice
+** Płońsk-Północ
+** Nowy Dwór Mazowiecki
+** Warszawa-Jelonki
+** Warszawa-Koło
+** Nasielsk
+** Warszawa-Żoliborz
+** Warszawa-Chomiczówka
+** Ciechanów-Aleksandrówka
+** Warszawa-Bemowo
+** Warszawa-Piaski
