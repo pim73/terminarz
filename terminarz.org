@@ -11,10 +11,6 @@ Kursor musi znajdować się na nagłówku
 #+END_COMMENT
 
 #+COLUMNS: %ITEM(Zbór) %SCHEDULED(Data)
-** Jelonki                                             :maj:TEACHING:FLAGGED:
-SCHEDULED: <2021-05-25 Tue>
-- Note taken on [2021-02-20 Sat 06:27] \\
-Pierwszy tydzień współpracy z Mariuszem Klimkiem
 ** Chomiczówka                                   :czerwiec:TEACHING:FLAGGED:
 SCHEDULED: <2021-06-01 Tue>
 - Note taken on [2021-02-20 Sat 06:28] \\

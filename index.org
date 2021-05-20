@@ -2,7 +2,6 @@
 
 | Zbór                    | Początek wizyty  |
 |-------------------------+------------------|
-| Jelonki                 | [2021-05-25 Tue] |
 | Chomiczówka             | [2021-06-01 Tue] |
 | Nasielsk                | [2021-06-08 Tue] |
 | Współpraca pionierska   | [2021-06-15 Tue] |
