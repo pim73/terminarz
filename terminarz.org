@@ -11,10 +11,6 @@ Kursor musi znajdować się na nagłówku
 #+END_COMMENT
 
 #+COLUMNS: %ITEM(Zbór) %SCHEDULED(Data)
-** Chomiczówka                                   :czerwiec:TEACHING:FLAGGED:
-SCHEDULED: <2021-06-01 Tue>
-- Note taken on [2021-02-20 Sat 06:28] \\
-  Drugi tydzień współpracy z Mariuszem Klimkiem 
 ** Nasielsk                                                        :czerwiec:
    SCHEDULED: <2021-06-08 Tue>
 ** Współpraca pionierska                           :EASY:współpraca:czerwiec:
@@ -24,6 +20,7 @@ SCHEDULED: <2021-06-01 Tue>
 ** Ciechanów-Aleksandrówka                                         :czerwiec:
    SCHEDULED: <2021-06-29 Tue>
 ** Koło                                                              :lipiec:
+SCHEDULED: <2021-07-06 Tue>
 ** Współpraca pionierska :EASY:współpraca:lipiec:
    SCHEDULED: <2021-07-13 Tue>
 ** Bemowo                                                            :lipiec:
@@ -38,7 +35,7 @@ SCHEDULED: <2021-08-10 Tue>
 SCHEDULED: <2021-08-16 Mon>
 ** KSP 2 (202) :TEACHING:sierpień:
 SCHEDULED: <2021-08-23 Mon>
-** Urlop                                          :współpraca:EASY:sierpień:
+** Urlop :sierpień:
 SCHEDULED: <2021-08-31 Tue>
 - Note taken on [2021-05-10 Mon 10:32] \\
   Dotąd wysłałem zawiadomienia i szczegóły wizyty
