@@ -40,14 +40,15 @@ SCHEDULED: <2021-08-31 Tue>
 - Note taken on [2021-05-10 Mon 10:32] \\
   Dotąd wysłałem zawiadomienia i szczegóły wizyty
 * Program wrzesień-luty
+** Urlop :WRZESIEŃ:
+SCHEDULED: <2021-09-07 wto>
 ** Płońsk-Stare Miasto :WRZESIEŃ:
-SCHEDULED: <2021-09-07 Tue>
+SCHEDULED: <2021-09-14 wto>
 ** Warszawa-Młociny :WRZESIEŃ:
-SCHEDULED: <2021-09-14 Tue>
+SCHEDULED: <2021-09-21 wto>
 ** Mława :WRZESIEŃ:
-SCHEDULED: <2021-09-21 Tue>
-** Warszawa-Bielany :WRZESIEŃ:
-SCHEDULED: <2021-09-28 Tue>
+SCHEDULED: <2021-09-28 wto>
+** Warszawa-Bielany
 ** Izabelin
 ** Ciechanów-Podzamcze
 ** Łomianki
