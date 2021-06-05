@@ -2,7 +2,6 @@
 
 | Zbór                    | Początek wizyty  |
 |-------------------------+------------------|
-| Nasielsk                | [2021-06-08 Tue] |
 | Współpraca pionierska   | [2021-06-15 Tue] |
 | Żoliborz                | [2021-06-22 Tue] |
 | Ciechanów-Aleksandrówka | [2021-06-29 Tue] |
