@@ -11,9 +11,7 @@ Kursor musi znajdować się na nagłówku
 #+END_COMMENT
 
 #+COLUMNS: %ITEM(Zbór) %SCHEDULED(Data)
-** Współpraca pionierska :EASY:współpraca:czerwiec:
-   SCHEDULED: <2021-06-15 Tue>
-** Żoliborz                                                        :czerwiec:
+** Żoliborz :czerwiec:
    SCHEDULED: <2021-06-22 Tue>
 ** Ciechanów-Aleksandrówka                                         :czerwiec:
    SCHEDULED: <2021-06-29 Tue>
@@ -21,6 +19,8 @@ Kursor musi znajdować się na nagłówku
 SCHEDULED: <2021-07-06 Tue>
 ** Współpraca pionierska :EASY:współpraca:lipiec:
    SCHEDULED: <2021-07-13 Tue>
+   - Note taken on [2021-06-19 Sat 11:52] \\
+     Mława - wysłałem powiadomienie
 ** Bemowo                                                            :lipiec:
    SCHEDULED: <2021-07-20 Tue>
 ** Piaski                                                            :lipiec:
