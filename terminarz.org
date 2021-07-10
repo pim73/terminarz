@@ -11,12 +11,6 @@ Kursor musi znajdować się na nagłówku
 #+END_COMMENT
 
 #+COLUMNS: %ITEM(Zbór) %SCHEDULED(Data)
-** Żoliborz :czerwiec:
-   SCHEDULED: <2021-06-22 Tue>
-** Ciechanów-Aleksandrówka                                         :czerwiec:
-   SCHEDULED: <2021-06-29 Tue>
-** Koło                                                              :lipiec:
-SCHEDULED: <2021-07-06 Tue>
 ** Współpraca pionierska :EASY:współpraca:lipiec:
    SCHEDULED: <2021-07-13 Tue>
    - Note taken on [2021-06-19 Sat 11:52] \\
@@ -38,17 +32,22 @@ SCHEDULED: <2021-08-31 Tue>
 - Note taken on [2021-05-10 Mon 10:32] \\
   Dotąd wysłałem zawiadomienia i szczegóły wizyty
 * Program wrzesień-luty
-** Urlop :WRZESIEŃ:
+** Urlop                                                          :WRZESIEŃ:
 SCHEDULED: <2021-09-07 wto>
-** Płońsk-Stare Miasto :WRZESIEŃ:
+** Płońsk-Stare Miasto                                            :WRZESIEŃ:
 SCHEDULED: <2021-09-14 wto>
-** Warszawa-Młociny :WRZESIEŃ:
+** Warszawa-Młociny                                               :WRZESIEŃ:
 SCHEDULED: <2021-09-21 wto>
-** Mława :WRZESIEŃ:
+** Mława                                                          :WRZESIEŃ:
 SCHEDULED: <2021-09-28 wto>
-** Warszawa-Bielany
-** Izabelin
-** Ciechanów-Podzamcze
+** Warszawa-Bielany                                            :PAŹDZIERNIK:
+SCHEDULED: <2021-10-05 Tue>
+** Izabelin                                                    :PAŹDZIERNIK:
+SCHEDULED: <2021-10-12 Tue>
+** Wolny tydzień (w ramach nowego postanowienia)          :EASY:PAŹDZIERNIK:
+SCHEDULED: <2021-10-19 Tue>
+** Ciechanów-Podzamcze                                         :PAŹDZIERNIK:
+SCHEDULED: <2021-10-26 Tue>
 ** Łomianki
 ** Małocice
 ** Tydzień zgromadzenia :TEACHING:ZGROMADZENIE:LISTOPAD:
@@ -62,13 +61,13 @@ SCHEDULED: <2021-11-21 Sun>
 - Note taken on [2021-05-13 Thu 15:13] \\
   Nagrany program z JW Stream
 ** Płońsk-Północ
-** Nowy Dwór Mazowiecki
 ** Warszawa-Jelonki
-** Warszawa-Koło
 ** Nasielsk
-** Warszawa-Żoliborz
 ** Warszawa-Chomiczówka
+** Nowy Dwór Mazowiecki
+** Warszawa-Żoliborz
 ** Ciechanów-Aleksandrówka
+** Warszawa-Koło
 ** Warszawa-Bemowo
 ** Warszawa-Piaski
 * Program marzec-sierpień

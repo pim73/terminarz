@@ -1,18 +1,20 @@
 #+setupfile: config.org
 
-| Zbór                    | Początek wizyty  |
-|-------------------------+------------------|
-| Ciechanów-Aleksandrówka | [2021-06-29 Tue] |
-| Koło                    | [2021-07-06 Tue] |
-| Współpraca pionierska   | [2021-07-13 Tue] |
-| Bemowo                  | [2021-07-20 Tue] |
-| Piaski                  | [2021-07-27 Tue] |
-| Współraca pionierska    | [2021-08-03 Tue] |
-| Kongres regionalny      | [2021-08-10 Tue] |
-| KSP 1                   | [2021-08-16 Mon] |
-| Współpraca pionierska   | [2021-08-23 Mon] |
-| Urlop                   | [2021-08-31 Tue] |
-| Urlop                   | [2021-09-07 wto] |
-| Płońsk-Stare Miasto     | [2021-09-14 wto] |
-| Warszawa-Młociny        | [2021-09-21 wto] |
-| Mława                   | [2021-09-28 wto] |
+| Zbór                  | Początek wizyty  |
+|-----------------------+------------------|
+| Współpraca pionierska | [2021-07-13 Tue] |
+| Bemowo                | [2021-07-20 Tue] |
+| Piaski                | [2021-07-27 Tue] |
+| Współraca pionierska  | [2021-08-03 Tue] |
+| Kongres regionalny    | [2021-08-10 Tue] |
+| KSP 1                 | [2021-08-16 Mon] |
+| Współpraca pionierska | [2021-08-23 Mon] |
+| Urlop                 | [2021-08-31 Tue] |
+| Urlop                 | [2021-09-07 wto] |
+| Płońsk-Stare Miasto   | [2021-09-14 wto] |
+| Warszawa-Młociny      | [2021-09-21 wto] |
+| Mława                 | [2021-09-28 wto] |
+| Warszawa-Bielany      | [2021-10-05 Tue] |
+| Izabelin              | [2021-10-12 Tue] |
+| Wolny tydzień         | [2021-10-19 Tue] |
+| Ciechanów-Podzamcze   | [2021-10-26 Tue] |
