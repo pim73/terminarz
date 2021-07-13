@@ -11,10 +11,6 @@ Kursor musi znajdować się na nagłówku
 #+END_COMMENT
 
 #+COLUMNS: %ITEM(Zbór) %SCHEDULED(Data)
-** Współpraca pionierska :EASY:współpraca:lipiec:
-   SCHEDULED: <2021-07-13 Tue>
-   - Note taken on [2021-06-19 Sat 11:52] \\
-     Mława - wysłałem powiadomienie
 ** Bemowo                                                            :lipiec:
    SCHEDULED: <2021-07-20 Tue>
 ** Piaski                                                            :lipiec:
@@ -48,6 +44,8 @@ SCHEDULED: <2021-10-12 Tue>
 SCHEDULED: <2021-10-19 Tue>
 ** Ciechanów-Podzamcze                                         :PAŹDZIERNIK:
 SCHEDULED: <2021-10-26 Tue>
+- Note taken on [2021-07-12 Mon 15:55] \\
+  Dotąd wysłałem zawiadomienie na razie bez szczegółów
 ** Łomianki
 ** Małocice
 ** Tydzień zgromadzenia :TEACHING:ZGROMADZENIE:LISTOPAD:
@@ -79,3 +77,8 @@ SCHEDULED: <2022-03-12 Sat>
 SCHEDULED: <2022-03-13 Sun>
 - Note taken on [2021-05-13 Thu 15:17] \\
   Planowane w SZ
+
+* Notatki                                                             :UWAGA:
+- Note taken on [2021-06-03 Thu 22:17] \\
+  Dotychczas wysłałem tylko zawiadomienie o wizycie na wrzesień
+** Wysłanie szczegółów dotyczących wizyt w kolejnym półroczu

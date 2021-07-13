@@ -2,7 +2,6 @@
 
 | Zbór                  | Początek wizyty  |
 |-----------------------+------------------|
-| Współpraca pionierska | [2021-07-13 Tue] |
 | Bemowo                | [2021-07-20 Tue] |
 | Piaski                | [2021-07-27 Tue] |
 | Współraca pionierska  | [2021-08-03 Tue] |
