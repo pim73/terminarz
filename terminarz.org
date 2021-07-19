@@ -11,8 +11,6 @@ Kursor musi znajdować się na nagłówku
 #+END_COMMENT
 
 #+COLUMNS: %ITEM(Zbór) %SCHEDULED(Data)
-** Bemowo                                                            :lipiec:
-   SCHEDULED: <2021-07-20 Tue>
 ** Piaski                                                            :lipiec:
    SCHEDULED: <2021-07-27 Tue>
 ** Współpraca pionierska :sierpień:
