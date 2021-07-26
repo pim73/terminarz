@@ -2,7 +2,6 @@
 
 | Zbór                  | Początek wizyty  |
 |-----------------------+------------------|
-| Piaski                | [2021-07-27 Tue] |
 | Współraca pionierska  | [2021-08-03 Tue] |
 | Kongres regionalny    | [2021-08-10 Tue] |
 | KSP 1                 | [2021-08-16 Mon] |
