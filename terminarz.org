@@ -11,22 +11,12 @@ Kursor musi znajdować się na nagłówku
 #+END_COMMENT
 
 #+COLUMNS: %ITEM(Zbór) %SCHEDULED(Data)
-** Piaski                                                            :lipiec:
-   SCHEDULED: <2021-07-27 Tue>
-** Współpraca pionierska                                          :sierpień:
-SCHEDULED: <2021-08-03 Tue>
-** Kongres regionalny                                             :sierpień:
-SCHEDULED: <2021-08-10 Tue>
-** KSP (205)                                             :TEACHING:sierpień:
-SCHEDULED: <2021-08-16 Mon>
 ** Współpraca pionierska                                     :sierpień:EASY:
 SCHEDULED: <2021-08-23 Mon>
 - Note taken on [2021-07-26 Mon 15:13] \\
   Zawiadomiłem NDM
 ** Urlop                                                          :sierpień:
 SCHEDULED: <2021-08-31 Tue>
-- Note taken on [2021-05-10 Mon 10:32] \\
-  Dotąd wysłałem zawiadomienia i szczegóły wizyty
 * Program wrzesień-luty
 ** Urlop                                                          :WRZESIEŃ:
 SCHEDULED: <2021-09-07 wto>
