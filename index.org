@@ -1,24 +1,27 @@
 #+setupfile: config.org
 
-| Zbór                  | Początek wizyty  |
-|-----------------------+------------------|
-| Małocice              | [2021-11-09 Tue] |
-| Tydzień zgromadzenia  | [2021-11-16 Tue] |
-| Nasielsk              | [2021-11-23 Tue] |
-| Warszawa-Jelonki      | [2021-11-30 Tue] |
-| NDM                   | [2021-12-07 Tue] |
-| Warszawa-Chomiczówka  | [2021-12-14 Tue] |
-| Warszawa-Bemowo       | [2021-12-21 Tue] |
-| Współpraca pionierska | [2021-12-28 Tue] |
-| KS rosyjski Poznań    | [2022-01-03 Mon] |
-| KS rosyjski Warszawa  | [2022-01-10 Mon] |
-| KS Iława              | [2022-01-17 Mon] |
-| KS Bydgoszcz          | [2022-01-24 Mon] |
-| KS Bydgoszcz          | [2022-01-31 Mon] |
-| KS Bydgoszcz          | [2022-02-07 Mon] |
-| KS Bydgoszcz          | [2022-02-14 Mon] |
-| Warszawa-Piaski       | [2022-02-22 Tue] |
-| Współpraca pionierska | [2022-03-01 Tue] |
-| Tydzień zgromadzenia  | [2022-03-07 Mon] |
-| KS Poznań             | [2022-03-14 Mon] |
-| KS Poznań             | [2022-03-21 Mon] |
+| Zbór                            | Początek wizyty |
+|---------------------------------+-----------------|
+| Wydzień współpracy pionierskiej |      2022-04-12 |
+| Mława                           |      2022-04-19 |
+| Warszawa-Bielany                |      2022-04-26 |
+| Izabelin                        |      2022-05-03 |
+| Ciechanów-Podzamcze             |      2022-05-10 |
+| Łomianki                        |      2022-05-17 |
+| Współpraca pionierska           |      2022-05-24 |
+| Małocice                        |      2022-05-31 |
+| Nasielsk                        |      2022-06-07 |
+| Płońsk-Północ                   |      2022-06-14 |
+| Warszawa-Jelonki                |      2022-06-21 |
+| NDM                             |      2022-06-28 |
+| Warszawa-Chomiczówka            |      2022-07-05 |
+| Tydzień kongresu regionalnego   |      2022-07-12 |
+| Warszawa-Żoliborz               |      2022-07-19 |
+| Warszawa-Bemowo                 |      2022-07-26 |
+| Ciechanów-Aleksandrówka         |      2022-08-02 |
+| Warszawa-Koło                   |      2022-08-09 |
+| Warszawa-Piaski                 |      2022-08-16 |
+| Urlop                           |      2022-08-23 |
+| Tydzień przeprowadzki           |      2022-08-30 |
+| Urlop                           |      2022-09-06 |
+| Urlop                           |      2022-09-13 |
