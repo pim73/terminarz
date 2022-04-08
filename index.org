@@ -2,7 +2,7 @@
 
 | Zbór                            | Początek wizyty |
 |---------------------------------+-----------------|
-| Wydzień współpracy pionierskiej |      2022-04-12 |
+| Tydzień współpracy pionierskiej  |      2022-04-12 |
 | Mława                           |      2022-04-19 |
 | Warszawa-Bielany                |      2022-04-26 |
 | Izabelin                        |      2022-05-03 |
