@@ -2,7 +2,6 @@
 
 | Zbór                          | Początek wizyty | UWAGI                       |
 |-------------------------------+-----------------+-----------------------------|
-| Ciechanów-Podzamcze           |      2022-05-10 | Wyjazdowy                   |
 | Łomianki                      |      2022-05-17 |                             |
 | Współpraca pionierska         |      2022-05-24 | Jedziemy do Zgierza         |
 | Małocice                      |      2022-05-31 | Wyjazdowy                   |
