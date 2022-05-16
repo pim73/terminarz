@@ -2,7 +2,6 @@
 
 | Zbór                          | Początek wizyty | UWAGI                       |
 |-------------------------------+-----------------+-----------------------------|
-| Łomianki                      |      2022-05-17 |                             |
 | Współpraca pionierska         |      2022-05-24 |                             |
 | Małocice                      |      2022-05-31 | Wyjazdowy                   |
 | Nasielsk                      |      2022-06-07 | Wyjazdowy                   |
