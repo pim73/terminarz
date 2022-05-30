@@ -2,7 +2,6 @@
 
 | Zbór                          | Początek wizyty | UWAGI                       |
 |-------------------------------+-----------------+-----------------------------|
-| Małocice                      |      2022-05-31 | Wyjazdowy                   |
 | Nasielsk                      |      2022-06-07 | Wyjazdowy                   |
 | Płońsk-Północ                 |      2022-06-14 | Wyjazdowy                   |
 | Warszawa-Jelonki              |      2022-06-21 |                             |
