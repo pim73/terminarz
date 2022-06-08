@@ -1,18 +1,18 @@
 #+setupfile: config.org
 
-| Zbór                          | Początek wizyty | UWAGI                       |
-|-------------------------------+-----------------+-----------------------------|
-| Płońsk-Północ                 |      2022-06-14 | Wyjazdowy                   |
-| Warszawa-Jelonki              |      2022-06-21 |                             |
-| NDM                           |      2022-06-28 | Wyjazdowy                   |
-| Warszawa-Chomiczówka          |      2022-07-05 |                             |
-| Tydzień kongresu regionalnego |      2022-07-12 |                             |
-| Warszawa-Żoliborz             |      2022-07-19 |                             |
-| Warszawa-Bemowo               |      2022-07-26 |                             |
-| Ciechanów-Aleksandrówka       |      2022-08-02 | Wyjazdowy                   |
-| Warszawa-Koło                 |      2022-08-09 |                             |
-| Warszawa-Piaski               |      2022-08-16 |                             |
-| Urlop                         |      2022-08-23 | dotąd zawiadomiłem          |
-| Tydzień przeprowadzki         |      2022-08-30 | czekam jeszcze na info z BO |
-| Urlop                         |      2022-09-06 |                             |
-| Urlop                         |      2022-09-13 |                             |
+| Zbór                          | Początek wizyty | UWAGI              |
+|-------------------------------+-----------------+--------------------|
+| Płońsk-Północ                 |      2022-06-14 | Wyjazdowy          |
+| Warszawa-Jelonki              |      2022-06-21 |                    |
+| NDM                           |      2022-06-28 | Wyjazdowy          |
+| Warszawa-Chomiczówka          |      2022-07-05 |                    |
+| Tydzień kongresu regionalnego |      2022-07-12 |                    |
+| Warszawa-Żoliborz             |      2022-07-19 |                    |
+| Warszawa-Bemowo               |      2022-07-26 |                    |
+| Ciechanów-Aleksandrówka       |      2022-08-02 | Wyjazdowy          |
+| Warszawa-Koło                 |      2022-08-09 |                    |
+| Warszawa-Piaski               |      2022-08-16 |                    |
+| Urlop                         |      2022-08-23 | dotąd zawiadomiłem |
+| Tydzień przeprowadzki         |      2022-08-30 |                    |
+| Urlop                         |      2022-09-06 |                    |
+| Urlop                         |      2022-09-13 |                    |
