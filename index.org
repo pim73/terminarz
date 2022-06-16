@@ -11,7 +11,7 @@
 | Ciechanów-Aleksandrówka       |       2022-08-02 |
 | Warszawa-Koło                 |       2022-08-09 |
 | Warszawa-Piaski               |       2022-08-16 |
-| Urlop                         |       2022-08-23 |
+| Współpraca pionierska         |       2022-08-23 |
 | Tydzień przeprowadzki         |       2022-08-30 |
 |-------------------------------+------------------|
 | Urlop                         |       2022-09-06 |
