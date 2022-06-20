@@ -21,10 +21,11 @@
 | Gdańsk-Orunia-Zachód          | [2022-10-04 Tue] |
 | Pruszcz Gdański-Zachód        | [2022-10-11 Tue] |
 | Starogard Gdański-Południe    | [2022-10-18 Tue] |
-| Łęgowo                        | [2022-10-25 Tue] |
+| Współpraca pionierska         | [2022-10-25 Tue] |
 | KSP-1                         | [2022-10-31 Mon] |
 | KSP-2                         | [2022-11-07 Mon] |
 | KSP-3                         | [2022-11-14 Mon] |
 | Gdańsk-Wschód                 | [2022-11-22 Tue] |
 | Zgromadzenie JW Stream Studio | [2022-11-29 Tue] |
+| Łęgowo                        | [2022-12-06 Tue] |
 
