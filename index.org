@@ -2,7 +2,6 @@
 
 | Zbór                          |  Początek wizyty |
 |-------------------------------+------------------|
-| Warszawa-Jelonki              |       2022-06-21 |
 | NDM                           |       2022-06-28 |
 | Warszawa-Chomiczówka          |       2022-07-05 |
 | Tydzień kongresu regionalnego |       2022-07-12 |
