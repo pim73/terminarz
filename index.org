@@ -2,7 +2,6 @@
 
 | Zbór                          |  Początek wizyty |
 |-------------------------------+------------------|
-| Tydzień kongresu regionalnego |       2022-07-12 |
 | Warszawa-Żoliborz             |       2022-07-19 |
 | Warszawa-Bemowo               |       2022-07-26 |
 | Ciechanów-Aleksandrówka       |       2022-08-02 |
