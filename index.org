@@ -1,12 +1,12 @@
 #+setupfile: config.org
 
-| Zbór                          |  Początek wizyty |
+| Zbór                          | Początek wizyty  |
 |-------------------------------+------------------|
-| Współpraca pionierska         |       2022-08-23 |
-| Tydzień przeprowadzki         |       2022-08-30 |
+| Współpraca pionierska         | 2022-08-23       |
+| Tydzień przeprowadzki         | 2022-08-30       |
 |-------------------------------+------------------|
-| Urlop                         |       2022-09-06 |
-| Urlop                         |       2022-09-13 |
+| Urlop                         | 2022-09-06       |
+| Urlop                         | 2022-09-13       |
 | Czersk                        | [2022-09-20 Tue] |
 | Tczew-Centrum                 | [2022-09-27 Tue] |
 | Gdańsk-Orunia-Zachód          | [2022-10-04 Tue] |
@@ -19,4 +19,17 @@
 | Gdańsk-Wschód                 | [2022-11-22 Tue] |
 | Zgromadzenie JW Stream Studio | [2022-11-29 Tue] |
 | Łęgowo                        | [2022-12-06 Tue] |
+| Tczew-Czyżykowo               | [2022-12-13 Tue] |
+| NDG-Północ                    | [2022-12-20 Tue] |
+| Gniew                         | [2022-12-27 Tue] |
+| Współpraca pionierska         | [2023-01-03 Tue] |
+| Kościerzyna                   | [2023-01-10 Tue] |
+| Kolbudy                       | [2023-01-17 Tue] |
+| Starogard Gdański-Północ      | [2023-01-24 Tue] |
+| Tczew-Suchostrzygi            | [2023-01-31 Tue] |
+| NDG-Południe                  | [2023-02-07 Tue] |
+| Starogard Gdański-Wschód      | [2023-02-14 Tue] |
+| Gdańsk-Orunia-Wschód          | [2023-02-21 Tue] |
+| Pruszcz Gdański-Wschód        | [2023-02-28 Tue] |
+
 
