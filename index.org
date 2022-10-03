@@ -1,35 +1,84 @@
 #+setupfile: config.org
+#+options: toc:1
+#+title: Terminarz w obwodzie 702
 
-| Zbór                          | Początek wizyty  |
-|-------------------------------+------------------|
-| Współpraca pionierska         | 2022-08-23       |
-| Tydzień przeprowadzki         | 2022-08-30       |
-|-------------------------------+------------------|
-| Urlop                         | 2022-09-06       |
-| Urlop                         | 2022-09-13       |
-| Czersk                        | [2022-09-20 Tue] |
-| Tczew-Centrum                 | [2022-09-27 Tue] |
-| Gdańsk-Orunia-Zachód          | [2022-10-04 Tue] |
-| Pruszcz Gdański-Zachód        | [2022-10-11 Tue] |
-| Starogard Gdański-Południe    | [2022-10-18 Tue] |
-| Współpraca pionierska         | [2022-10-25 Tue] |
-| KSP-1                         | [2022-10-31 Mon] |
-| KSP-2                         | [2022-11-07 Mon] |
-| KSP-3                         | [2022-11-14 Mon] |
-| Gdańsk-Wschód                 | [2022-11-22 Tue] |
-| Zgromadzenie JW Stream Studio | [2022-11-29 Tue] |
-| Łęgowo                        | [2022-12-06 Tue] |
-| Tczew-Czyżykowo               | [2022-12-13 Tue] |
-| NDG-Północ                    | [2022-12-20 Tue] |
-| Gniew                         | [2022-12-27 Tue] |
-| Współpraca pionierska         | [2023-01-03 Tue] |
-| Kościerzyna                   | [2023-01-10 Tue] |
-| Kolbudy                       | [2023-01-17 Tue] |
-| Starogard Gdański-Północ      | [2023-01-24 Tue] |
-| Tczew-Suchostrzygi            | [2023-01-31 Tue] |
-| NDG-Południe                  | [2023-02-07 Tue] |
-| Starogard Gdański-Wschód      | [2023-02-14 Tue] |
-| Gdańsk-Orunia-Wschód          | [2023-02-21 Tue] |
-| Pruszcz Gdański-Wschód        | [2023-02-28 Tue] |
+[[file:~/Documents/Terminarz702.numbers][Terminarz w numbers]]
+
+* IN-PROGRESS Tabela 2023a
+
+|------------------+-------------------------------------------------------------+------+----|
+| Data             | Zbór                                                        | Zbór | BO |
+|------------------+-------------------------------------------------------------+------+----|
+| [2022-10-04 Tue] | Gdańsk-Orunia-Zachód                                        | +    | +  |
+| [2022-10-11 Tue] | Pruszcz Gdański-Zachód                                      | +    | +  |
+| [2022-10-18 Tue] | Starogard Gdański-Południe                                  | +    | +  |
+| [2022-10-25 Tue] | *Współpraca pionierska*                                       | +    | +  |
+|                  | Tczew-Czyżykowo                                             |      |    |
+|------------------+-------------------------------------------------------------+------+----|
+| [2022-11-01 Tue] | *KSP-1*                                                       | +    | +  |
+| [2022-11-08 Tue] | *KSP-2*                                                       | +    | +  |
+| [2022-11-15 Tue] | *KSP-3*                                                       | +    | +  |
+| [2022-11-22 Tue] | Gdańsk-Wschód                                               | +    | +  |
+| [2022-11-29 Tue] | *Zgromadzenie JW-Stream-Studio*                               |      | +  |
+|------------------+-------------------------------------------------------------+------+----|
+| [2022-12-06 Tue] | Łęgowo                                                      | +    | +  |
+| [2022-12-13 Tue] | Tczew-Czyżykowo                                             | +    | +  |
+| [2022-12-20 Tue] | Wolny tydzień                                               |      | +  |
+| [2022-12-27 Tue] | NDG-Północ                                                  | +    | +  |
+|------------------+-------------------------------------------------------------+------+----|
+| [2023-01-03 Tue] | Gniew                                                       |      |    |
+| [2023-01-10 Tue] | +Kolbudy+ =ZNO Sławomir Marciniak=                              |      |    |
+|                  | Możliwe, że wezmę urlop i użyję ZNO to jeszcze nie ustalone |      |    |
+| [2023-01-17 Tue] | Kościerzyna                                                 |      |    |
+| [2023-01-24 Tue] | Starogard Gdański-Północ                                    |      |    |
+| [2023-01-31 Tue] | Tczew-Suchostrzygi                                          |      |    |
+|------------------+-------------------------------------------------------------+------+----|
+| [2023-02-07 Tue] | NDG-Południe                                                |      |    |
+| [2023-02-14 Tue] | Starogard Gdański-Wschód                                    |      |    |
+| [2023-02-21 Tue] | Gdańsk-Orunia-Wschód                                        |      |    |
+| [2023-02-28 Tue] | Pruszcz Gdański-Wschód                                      |      |    |
+
+* COMMENT Tabela 2023b
+
+| Data             | Zbór | Zbór | BO |
+|------------------+------+------+----|
+| [2023-03-07 Tue] |      |      |    |
+| [2023-03-14 Tue] |      |      |    |
+| [2023-03-21 Tue] |      |      |    |
+| [2023-03-28 Tue] |      |      |    |
+| [2023-04-04 Tue] |      |      |    |
+| [2023-04-11 Tue] |      |      |    |
+| [2023-04-18 Tue] |      |      |    |
+| [2023-04-25 Tue] |      |      |    |
+| [2023-05-02 Tue] |      |      |    |
+| [2023-05-09 Tue] |      |      |    |
+| [2023-05-16 Tue] |      |      |    |
+| [2023-05-23 Tue] |      |      |    |
+| [2023-05-30 Tue] |      |      |    |
+| [2023-06-06 Tue] |      |      |    |
+| [2023-06-13 Tue] |      |      |    |
+| [2023-06-20 Tue] |      |      |    |
+| [2023-06-27 Tue] |      |      |    |
 
 
+** TODO Wizyty zaplanowane [0/18]
+- [ ] Czersk
+- [ ] Gdańsk-Orunia-Wschód
+- [ ] Gniew
+- [ ] Kolbudy
+- [ ] Łęgowo
+- [ ] Nowy Dwór Gdański-Północ
+- [ ] Pruszcz Gdański-Wschód
+- [ ] Starogard Gdański-Południe
+- [ ] Starogard Gdański-Północ
+- [ ] Starogard Gdański-Wschód
+- [ ] Gdańsk-Orunia-Zachód
+- [ ] Gdańsk-Wschód
+- [ ] Kościerzyna
+- [ ] Nowy Dwór Gdański-Południe
+- [ ] Pruszcz Gdański-Zachód
+- [ ] Tczew-Centrum
+- [ ] Tczew-Czyżykowo
+- [ ] Tczew-Suchostrzygi
+
+  
