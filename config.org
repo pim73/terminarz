@@ -3,7 +3,7 @@
 #+LATEX_HEADER: \usepackage[AUTO]{babel}
 #+LATEX_HEADER: \DeclareUnicodeCharacter{2028}{\linebreak}
 #+latex_header: \usepackage[left=2cm, top=2cm, bottom=2cm, right=2cm]{geometry}
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css">
+# #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css">
 #+options: toc:nil
 #+options: num:nil
 #+author:
