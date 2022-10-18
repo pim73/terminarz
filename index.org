@@ -2,8 +2,9 @@
 #+options: toc:1
 #+title: Terminarz w obwodzie 702
 
+#+begin_comment
 [[file:~/Documents/Terminarz702.numbers][Terminarz w numbers]]
-
+#+end_comment
 * Tabela 2023a
 
 |------------------+-----------------------------------+------+----|
