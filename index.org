@@ -29,10 +29,10 @@
 | [2023-01-31 Tue] | +NDG-Południe+ =ZNO Sławek Marciniak= | +    | +  |
 |                  | Bierzemy urlop.                   |      |    |
 |------------------+-----------------------------------+------+----|
-| [2023-02-07 Tue] | Starogard Gdański-Północ          |      |    |
-| [2023-02-14 Tue] | Starogard Gdański-Wschód          |      |    |
-| [2023-02-21 Tue] | Gdańsk-Orunia-Wschód              |      |    |
-| [2023-02-28 Tue] | Pruszcz Gdański-Wschód            |      |    |
+| [2023-02-07 Tue] | Starogard Gdański-Północ          | +    | +  |
+| [2023-02-14 Tue] | Starogard Gdański-Wschód          | +    | +  |
+| [2023-02-21 Tue] | Gdańsk-Orunia-Wschód              | +    | +  |
+| [2023-02-28 Tue] | Pruszcz Gdański-Wschód            | +    | +  |
 
 * COMMENT Tabela 2023b
 
