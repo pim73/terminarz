@@ -7,52 +7,49 @@
 #+end_comment
 * Tabela 2023a
 
-|------------------+-----------------------------------+------+----|
-| Data             | Zbór                              | Zbór | BO |
-|------------------+-----------------------------------+------+----|
-| [2022-11-15 Tue] | *KSP-3*                             | +    | +  |
-| [2022-11-22 Tue] | Gdańsk-Wschód                     | +    | +  |
-| [2022-11-29 Tue] | *Zgromadzenie JW-Stream-Studio*     |      | +  |
-|------------------+-----------------------------------+------+----|
-| [2022-12-06 Tue] | Łęgowo                            | +    | +  |
-| [2022-12-13 Tue] | Tczew-Czyżykowo                   | +    | +  |
-| [2022-12-20 Tue] | Wolny tydzień                     |      | +  |
-| [2022-12-27 Tue] | NDG-Północ                        | +    | +  |
-|------------------+-----------------------------------+------+----|
-| [2023-01-03 Tue] | Gniew                             | +    | +  |
-| [2023-01-10 Tue] | Kolbudy                           | +    | +  |
-| [2023-01-17 Tue] | Tczew-Suchostrzygi                | +    | +  |
-| [2023-01-24 Tue] | Kościerzyna                       | +    | +  |
-| [2023-01-31 Tue] | +NDG-Południe+ =ZNO Sławek Marciniak= | +    | +  |
-|                  | Bierzemy urlop.                   |      |    |
-|------------------+-----------------------------------+------+----|
-| [2023-02-07 Tue] | Starogard Gdański-Północ          | +    | +  |
-| [2023-02-14 Tue] | Starogard Gdański-Wschód          | +    | +  |
-| [2023-02-21 Tue] | Gdańsk-Orunia-Wschód              | +    | +  |
-| [2023-02-28 Tue] | Pruszcz Gdański-Wschód            | +    | +  |
-
+|------------------+---------------------------------------------------------------------+------+----|
+| Data             | Zbór                                                                | Zbór | BO |
+|------------------+---------------------------------------------------------------------+------+----|
+| [2022-11-15 Tue] | *KSP-3*                                                               | +    | +  |
+| [2022-11-22 Tue] | Gdańsk-Wschód                                                       | +    | +  |
+| [2022-11-29 Tue] | *Zgromadzenie JW-Stream-Studio*                                       |      | +  |
+|------------------+---------------------------------------------------------------------+------+----|
+| [2022-12-06 Tue] | Łęgowo                                                              | +    | +  |
+| [2022-12-13 Tue] | Tczew-Czyżykowo                                                     | +    | +  |
+| [2022-12-20 Tue] | Wolny tydzień                                                       |      | +  |
+| [2022-12-27 Tue] | NDG-Północ                                                          | +    | +  |
+|------------------+---------------------------------------------------------------------+------+----|
+| [2023-01-03 Tue] | Gniew                                                               | +    | +  |
+| [2023-01-10 Tue] | Kolbudy                                                             | +    | +  |
+| [2023-01-17 Tue] | Tczew-Suchostrzygi                                                  | +    | +  |
+| [2023-01-24 Tue] | Kościerzyna                                                         | +    | +  |
+| [2023-01-31 Tue] | +NDG-Południe+ =ZNO Sławek Marciniak=                                   | +    | +  |
+|                  | Bierzemy urlop.                                                     |      |    |
+|------------------+---------------------------------------------------------------------+------+----|
+| [2023-02-07 Tue] | Starogard Gdański-Północ                                            | +    | +  |
+| [2023-02-14 Tue] | Starogard Gdański-Wschód                                            | +    | +  |
+| [2023-02-21 Tue] | Gdańsk-Orunia-Wschód                                                | +    | +  |
+| [2023-02-28 Tue] | Pruszcz Gdański-Wschód                                              | +    | +  |
+| [2023-03-07 Tue] | Urlop                                                               |      | +  |
+| [2023-03-14 Tue] | Czersk                                                              |      |    |
+| [2023-03-21 Tue] | Tczew-Centrum                                                       |      |    |
+| [2023-03-28 Tue] | Gdańsk-Orunia-Zachód                                                |      |    |
+| [2023-04-04 Tue] | *Tydzień zgromadzenia oraz tydzień Pamiątki*                          |      |    |
+|                  | Pamiątka [2023-04-04 Tue]                                           |      |    |
+|                  | Zgromadzenia w sobotę [2023-04-08 Sat] w niedzielę [2023-04-09 Sun] |      |    |
 * COMMENT Tabela 2023b
-
-| Data             | Zbór                                                   | Zbór | BO |
-|------------------+--------------------------------------------------------+------+----|
-| [2023-03-07 Tue] | Czersk                                                 |      |    |
-| [2023-03-14 Tue] | Tczew-Centrum                                          |      |    |
-| [2023-03-21 Tue] | Gdańsk-Orunia-Zachód                                   |      |    |
-| [2023-03-28 Tue] | Pruszcz Gdański-Zachód                                 |      |    |
-| [2023-04-04 Tue] | *Tydzień zgromadzenia oraz tydzień Pamiątki*             |      |    |
-|                  | w sobotę [2023-04-08 Sat] w niedzielę [2023-04-09 Sun] |      |    |
-| [2023-04-11 Tue] | Starogard Gdanski-Południe                             |      |    |
-| [2023-04-18 Tue] | Gdańsk-Wschód                                          |      |    |
-| [2023-04-25 Tue] | Łęgowo                                                 |      |    |
-| [2023-05-02 Tue] | Tczew-Czyżykowo                                        |      |    |
-| [2023-05-09 Tue] | *Tydzień KSK*                                            |      |    |
-| [2023-05-16 Tue] | NDG-Północ                                             |      |    |
-| [2023-05-23 Tue] |                                                        |      |    |
-| [2023-05-30 Tue] |                                                        |      |    |
-| [2023-06-06 Tue] |                                                        |      |    |
-| [2023-06-13 Tue] |                                                        |      |    |
-| [2023-06-20 Tue] |                                                        |      |    |
-| [2023-06-27 Tue] |                                                        |      |    |
+| [2023-04-11 Tue] | Starogard Gdanski-Południe                                          |      |    |
+| [2023-04-18 Tue] | Gdańsk-Wschód                                                       |      |    |
+| [2023-04-25 Tue] | Łęgowo                                                              |      |    |
+| [2023-05-02 Tue] | Tczew-Czyżykowo                                                     |      |    |
+| [2023-05-09 Tue] | *Tydzień KSK*                                                         |      |    |
+| [2023-05-16 Tue] | NDG-Północ                                                          |      |    |
+| [2023-05-23 Tue] |                                                                     |      |    |
+| [2023-05-30 Tue] |                                                                     |      |    |
+| [2023-06-06 Tue] |                                                                     |      |    |
+| [2023-06-13 Tue] |                                                                     |      |    |
+| [2023-06-20 Tue] |                                                                     |      |    |
+| [2023-06-27 Tue] |                                                                     |      |    |
 
 
 ** Wizyty zaplanowane [9/18]
